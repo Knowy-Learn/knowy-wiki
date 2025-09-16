@@ -9,10 +9,11 @@ Este repositorio contiene la **documentación oficial del proyecto Knowy**, una 
 
 ## 📖 Contenidos de la wiki
 
+- **[Índice de Contenidos](docs/index.md)**
 
 ---
 
 ## 📜 Licencia
 
 Esta documentación se distribuye bajo la licencia **GPLv3**, igual que el proyecto principal.  
-Consulta el archivo [LICENSE](docs/LICENSE.md) para más detalles.
+Consulta el archivo [LICENSE](LICENSE) para más detalles.

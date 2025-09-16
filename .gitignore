@@ -1,0 +1,25 @@
+# -----------------------------
+# IDEs
+# -----------------------------
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/private/
+
+# -----------------------------
+# Logs y temporales
+# -----------------------------
+*.log
+*.tmp
